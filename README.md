@@ -9,6 +9,14 @@ A simple and interactive Streamlit application that uses a language model to bui
 - Two-tab interface for easy switching between building and explaining
 - Real-time responses powered by LLM via LangChain
 
+## Screenshots
+
+![](./docs/builder.png)
+_Building a Regex_
+
+![](./docs/explainer.png)
+_Explaining a Regex_
+
 ## ⚙️ Technologies Used
 
 - Streamlit for UI
